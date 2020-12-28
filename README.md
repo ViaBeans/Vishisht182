@@ -8,9 +8,7 @@
 
 ---
 
-<span style="color:blue"> 
-### Editing: </span>
-
+### Editing: 
 [<img>
 <img alt="visual studio code" width="36px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </img>](https://code.visualstudio.com/)
@@ -54,7 +52,6 @@
 [<img>
 <img alt="Git" width="36px" src="https://img.icons8.com/color/240/000000/git.png">
 </img>](https://git-scm.com/)
-<br />
 [<img>
 <img alt="ubuntu" width="36px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </img>](https://ubuntu.com/)
