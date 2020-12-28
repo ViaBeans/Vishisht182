@@ -49,7 +49,7 @@
 <img alt="terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </img>](https://docs.microsoft.com/en-us/windows/terminal/)
 [<img>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+<img alt="Git" width="36px" src="https://img.icons8.com/color/240/000000/git.png">
 </img>](https://git-scm.com/)
 <br />
 [<img>
