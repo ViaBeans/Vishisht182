@@ -8,7 +8,7 @@
 
 ---
 
-###Editing:
+### Editing:
 
 [<img>
 <img alt="visual studio code" width="36px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -26,7 +26,7 @@
 <img alt="markdown" width="36px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
 </img>](https://www.markdownguide.org/)
 
-###Languages, Frameworks, etc:
+### Languages, Frameworks, etc:
 [<img>
 <img alt="javascript" width="36px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </img>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -46,7 +46,7 @@
 <img alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </img>](https://dev.mysql.com/)
 
-###Tools and OS:
+### Tools and OS:
 [<img>
 <img alt="terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </img>](https://docs.microsoft.com/en-us/windows/terminal/)
