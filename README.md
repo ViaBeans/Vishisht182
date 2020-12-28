@@ -10,58 +10,57 @@
 
 ### My Toolkit:
 
-[<code>
+[<img>
 <img alt="visual studio code" width="36px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
+</img>](https://code.visualstudio.com/)
+[<img>
 <img alt="intellij idea" width="36px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
-[<code>
+</img>](https://www.jetbrains.com/idea/)
+[<img>
 <img alt="pycharm" width="36px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
-[<code>
+[<img>
 <img alt="latex" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>](https://www.latex-project.org/)
-[<code>
+</img>](https://www.latex-project.org/)
+[<img>
 <img alt="markdown" width="36px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
+</img>](https://www.markdownguide.org/)
 
-[<code>
+[<img>
 <img alt="javascript" width="36px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
+</img>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img>
 <img alt="java" width="36px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
+</img>](https://docs.oracle.com/en/java/)
+[<img>
 <img alt="python" width="36px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-[<code>
+</img>](https://www.python.org/)
+[<img>
 <img alt="react" width="36px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
+</img>](https://reactjs.org/)
+[<img>
 <img alt="Node.js" width="36px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
+</img>](https://nodejs.org/en/)
+[<img>
 <img alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
+</img>](https://dev.mysql.com/)
 
-[<code>
+[<img>
 <img alt="terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-[<code>
+</img>](https://docs.microsoft.com/en-us/windows/terminal/)
+[<img>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
+</img>](https://git-scm.com/)
 <br />
-[<code>
+[<img>
 <img alt="ubuntu" width="36px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
+</img>](https://ubuntu.com/)
+[<img>
 <img alt="macos" width="36px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)
-[<code>
+</img>](https://developer.apple.com/macos/)
+[<img>
 <img alt="linux" width="36px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+</img>](https://www.kernel.org/)
 
 ---
 
