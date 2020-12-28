@@ -8,7 +8,8 @@
 
 ---
 
-### Editing:
+<span style="color:blue"> 
+### Editing: </span>
 
 [<img>
 <img alt="visual studio code" width="36px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
