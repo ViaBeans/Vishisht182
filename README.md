@@ -36,7 +36,7 @@
 <img alt="cplusplus" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
 </img>]
 [<img>
-<img alt="cplusplus" width="36px" src="https://img.icons8.com/color/48/000000/c-programming.png">
+<img alt="clang" width="36px" src="https://img.icons8.com/color/48/000000/c-programming.png">
 </img>]
 
 </br>
