@@ -3,7 +3,8 @@
 -  Undergrad at Purdue University, Batch of 2023
 -  Currently working on Full Stack Dev and using the Discord API
 -  Fun fact: If you add a "fun fact" tag at the start of a sentence, chances are you're still reading this. Chump.
-- my [linkedin] page
+- my [LinkedIn][linkedin] page
+- my [Resume][resume]
 
 ---
 
@@ -73,4 +74,5 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/vishisht-jain-a0461519a/
+[resume]: https://vishishtjain.carrd.co/
 
