@@ -32,12 +32,12 @@
 [<img>
 <img alt="python" width="36px" src="https://img.icons8.com/color/240/000000/python.png">
 </img>](https://www.python.org/)
-[<img>
+<img>
 <img alt="cplusplus" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-</img>]
-[<img>
+</img>
+<img>
 <img alt="clang" width="36px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-</img>]
+</img>
 [<img>
 <img alt="react" width="36px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </img>](https://reactjs.org/)
