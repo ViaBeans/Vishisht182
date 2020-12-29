@@ -35,6 +35,7 @@
 [<img>
 <img alt="python" width="36px" src="https://img.icons8.com/color/240/000000/python.png">
 </img>](https://www.python.org/)
+</br>
 [<img>
 <img alt="react" width="36px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </img>](https://reactjs.org/)
