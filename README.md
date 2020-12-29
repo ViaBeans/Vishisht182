@@ -24,6 +24,12 @@
 [<img>
 <img alt="markdown" width="36px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
 </img>](https://www.markdownguide.org/)
+[<img>
+<img alt="cplusplus" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
+</img>]
+[<img>
+<img alt="cplusplus" width="36px" src="https://img.icons8.com/color/48/000000/c-programming.png">
+</img>]
 
 ### Languages, Frameworks, etc:
 [<img>
