@@ -73,7 +73,7 @@
 <br>
 
 <a href="https://github.com/Vishisht182">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vishisht182&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vishisht182&layout=compact&hide_border=true&theme=dracula" />
 </a>
 
 ---
