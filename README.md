@@ -70,6 +70,8 @@
 <a href="https://github.com/Vishisht182">
 <img align="center" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vishisht182&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
 
+<br>
+
 <a href="https://github.com/Vishisht182">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Vishisht182&layout=compact&theme=dracula" />
 </a>
