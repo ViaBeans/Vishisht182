@@ -33,11 +33,11 @@
 <img alt="python" width="36px" src="https://img.icons8.com/color/240/000000/python.png">
 </img>](https://www.python.org/)
 [<img>
-<img alt="cplusplus" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-</img>]
+<img alt="cplusplus" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+</img>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img>
-<img alt="clang" width="36px" src="https://img.icons8.com/color/48/000000/c-programming.png">
-</img>]
+<img alt="clang" width="36px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+</img>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 </br>
 [<img>
